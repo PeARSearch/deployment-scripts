@@ -26,4 +26,4 @@ RUN python run.py &
 EXPOSE 5000 4000
 
 ENTRYPOINT ["python"]
-CMD ["app.py"]
+CMD ["run.py"]
